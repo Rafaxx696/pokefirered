@@ -17,9 +17,9 @@
       "secondaryId": 0
     },
     {
-      "english": "MASTER BALL",
+      "english": "Master Ball",
       "itemId": "ITEM_MASTER_BALL",
-      "price": 0,
+      "price": 5000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.",
@@ -33,7 +33,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ULTRA BALL",
+      "english": "Ultra Ball",
       "itemId": "ITEM_ULTRA_BALL",
       "price": 1200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -49,7 +49,7 @@
       "secondaryId": 1
     },
     {
-      "english": "GREAT BALL",
+      "english": "Super Ball",
       "itemId": "ITEM_GREAT_BALL",
       "price": 600,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -65,7 +65,7 @@
       "secondaryId": 2
     },
     {
-      "english": "POK\u00e9 BALL",
+      "english": "Poke Ball",
       "itemId": "ITEM_POKE_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -209,7 +209,7 @@
       "secondaryId": 11
     },
     {
-      "english": "POTION",
+      "english": "Pocion",
       "itemId": "ITEM_POTION",
       "price": 300,
       "holdEffect": "HOLD_EFFECT_NONE",

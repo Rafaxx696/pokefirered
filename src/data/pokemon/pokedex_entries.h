@@ -15,7 +15,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_BULBASAUR] =
     {
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 7,
         .weight = 69,
         .description = gBulbasaurPokedexText,
