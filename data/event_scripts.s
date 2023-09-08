@@ -1363,3 +1363,9 @@ Text_TestMsg::
 
 	.include "data/maps/Ruta1A/scripts.inc"
 	.include "data/maps/Ruta1A/text.inc"
+
+	.include "data/maps/Ruta22/scripts.inc"
+	.include "data/maps/Ruta22/text.inc"
+
+	.include "data/maps/BosqueVerde1/scripts.inc"
+	.include "data/maps/BosqueVerde1/text.inc"

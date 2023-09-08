@@ -1109,7 +1109,7 @@
       "id": "LAYOUT_ROUTE22",
       "name": "Route22_Layout",
       "width": 48,
-      "height": 24,
+      "height": 23,
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
@@ -4392,6 +4392,30 @@
       "secondary_tileset": "gTileset_PalletTown",
       "border_filepath": "data/layouts/Ruta1A/border.bin",
       "blockdata_filepath": "data/layouts/Ruta1A/map.bin"
+    },
+    {
+      "id": "LAYOUT_RUTA22",
+      "name": "Ruta22_Layout",
+      "width": 48,
+      "height": 7,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTown",
+      "border_filepath": "data/layouts/Ruta22/border.bin",
+      "blockdata_filepath": "data/layouts/Ruta22/map.bin"
+    },
+    {
+      "id": "LAYOUT_BOSQUE_VERDE1",
+      "name": "BosqueVerde1_Layout",
+      "width": 20,
+      "height": 69,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_ViridianForest",
+      "border_filepath": "data/layouts/BosqueVerde1/border.bin",
+      "blockdata_filepath": "data/layouts/BosqueVerde1/map.bin"
     }
   ]
 }

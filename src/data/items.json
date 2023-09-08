@@ -81,7 +81,7 @@
       "secondaryId": 3
     },
     {
-      "english": "SAFARI BALL",
+      "english": "Safari Ball",
       "itemId": "ITEM_SAFARI_BALL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -97,7 +97,7 @@
       "secondaryId": 4
     },
     {
-      "english": "NET BALL",
+      "english": "Malla Ball",
       "itemId": "ITEM_NET_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -113,7 +113,7 @@
       "secondaryId": 5
     },
     {
-      "english": "DIVE BALL",
+      "english": "Buceo Ball",
       "itemId": "ITEM_DIVE_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -129,7 +129,7 @@
       "secondaryId": 6
     },
     {
-      "english": "NEST BALL",
+      "english": "Nido Ball",
       "itemId": "ITEM_NEST_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -145,7 +145,7 @@
       "secondaryId": 7
     },
     {
-      "english": "REPEAT BALL",
+      "english": "Acopio Ball",
       "itemId": "ITEM_REPEAT_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -161,7 +161,7 @@
       "secondaryId": 8
     },
     {
-      "english": "TIMER BALL",
+      "english": "Turno Ball",
       "itemId": "ITEM_TIMER_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -209,7 +209,7 @@
       "secondaryId": 11
     },
     {
-      "english": "Pocion",
+      "english": "Poción",
       "itemId": "ITEM_POTION",
       "price": 300,
       "holdEffect": "HOLD_EFFECT_NONE",
