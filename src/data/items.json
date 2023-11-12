@@ -35,7 +35,7 @@
     {
       "english": "Ultra Ball",
       "itemId": "ITEM_ULTRA_BALL",
-      "price": 1200,
+      "price": 400,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.",
@@ -51,7 +51,7 @@
     {
       "english": "Super Ball",
       "itemId": "ITEM_GREAT_BALL",
-      "price": 600,
+      "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.",
@@ -67,7 +67,7 @@
     {
       "english": "Poke Ball",
       "itemId": "ITEM_POKE_BALL",
-      "price": 200,
+      "price": 45,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A BALL thrown to catch a wild\\nPOKéMON. It is designed in a\\ncapsule style.",
@@ -177,7 +177,7 @@
       "secondaryId": 9
     },
     {
-      "english": "LUXURY BALL",
+      "english": "Lujo Ball",
       "itemId": "ITEM_LUXURY_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -225,7 +225,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ANTIDOTE",
+      "english": "Antidoto",
       "itemId": "ITEM_ANTIDOTE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -241,7 +241,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BURN HEAL",
+      "english": "Antiquema",
       "itemId": "ITEM_BURN_HEAL",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -257,7 +257,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ICE HEAL",
+      "english": "Antiderretir",
       "itemId": "ITEM_ICE_HEAL",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -289,7 +289,7 @@
       "secondaryId": 0
     },
     {
-      "english": "PARLYZ HEAL",
+      "english": "Antiparaliz",
       "itemId": "ITEM_PARALYZE_HEAL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -305,7 +305,7 @@
       "secondaryId": 0
     },
     {
-      "english": "FULL RESTORE",
+      "english": "Rest.Todo",
       "itemId": "ITEM_FULL_RESTORE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -321,7 +321,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX POTION",
+      "english": "Max. Poción",
       "itemId": "ITEM_MAX_POTION",
       "price": 2500,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -337,7 +337,7 @@
       "secondaryId": 0
     },
     {
-      "english": "HYPER POTION",
+      "english": "Hyper Poción",
       "itemId": "ITEM_HYPER_POTION",
       "price": 1200,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -353,7 +353,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SUPER POTION",
+      "english": "Superpocion",
       "itemId": "ITEM_SUPER_POTION",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -385,7 +385,7 @@
       "secondaryId": 0
     },
     {
-      "english": "REVIVE",
+      "english": "Revivir",
       "itemId": "ITEM_REVIVE",
       "price": 1500,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -401,7 +401,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX REVIVE",
+      "english": "Max Revivir",
       "itemId": "ITEM_MAX_REVIVE",
       "price": 4000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1505,9 +1505,9 @@
       "secondaryId": 0
     },
     {
-      "english": "MOON STONE",
+      "english": "Piedra Lunar",
       "itemId": "ITEM_MOON_STONE",
-      "price": 0,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as black as the night sky.",
@@ -1521,9 +1521,9 @@
       "secondaryId": 0
     },
     {
-      "english": "FIRE STONE",
+      "english": "Piedra Fuego",
       "itemId": "ITEM_FIRE_STONE",
-      "price": 2100,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is colored orange.",
@@ -1537,9 +1537,9 @@
       "secondaryId": 0
     },
     {
-      "english": "THUNDERSTONE",
+      "english": "Piedra Trueno",
       "itemId": "ITEM_THUNDER_STONE",
-      "price": 2100,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a thunderbolt pattern.",
@@ -1553,9 +1553,9 @@
       "secondaryId": 0
     },
     {
-      "english": "WATER STONE",
+      "english": "Piedra Agua",
       "itemId": "ITEM_WATER_STONE",
-      "price": 2100,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is a clear light blue.",
@@ -1569,9 +1569,9 @@
       "secondaryId": 0
     },
     {
-      "english": "LEAF STONE",
+      "english": "Piedra Hoja",
       "itemId": "ITEM_LEAF_STONE",
-      "price": 2100,
+      "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a leaf pattern.",
@@ -1649,7 +1649,7 @@
       "secondaryId": 0
     },
     {
-      "english": "TINYMUSHROOM",
+      "english": "Seta Pequeña",
       "itemId": "ITEM_TINY_MUSHROOM",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1665,7 +1665,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BIG MUSHROOM",
+      "english": "Seta Grande",
       "itemId": "ITEM_BIG_MUSHROOM",
       "price": 5000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1697,9 +1697,9 @@
       "secondaryId": 0
     },
     {
-      "english": "PEARL",
+      "english": "Perla",
       "itemId": "ITEM_PEARL",
-      "price": 1400,
+      "price": 2500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A relatively small pearl that\\nsparkles in a pretty silver color.\\nIt can be sold cheaply.",
@@ -1713,9 +1713,9 @@
       "secondaryId": 0
     },
     {
-      "english": "BIG PEARL",
+      "english": "Perla Grande",
       "itemId": "ITEM_BIG_PEARL",
-      "price": 7500,
+      "price": 10000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A quite-large pearl that sparkles\\nin a pretty silver color.\\nIt can be sold at a high price.",
@@ -1745,9 +1745,9 @@
       "secondaryId": 0
     },
     {
-      "english": "STAR PIECE",
+      "english": "Trozo Estrella",
       "itemId": "ITEM_STAR_PIECE",
-      "price": 9800,
+      "price": 12800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A shard of a pretty gem that\\nsparkles in a red color.\\nIt can be sold at a high price.",
@@ -1761,9 +1761,9 @@
       "secondaryId": 0
     },
     {
-      "english": "NUGGET",
+      "english": "Pepita",
       "itemId": "ITEM_NUGGET",
-      "price": 10000,
+      "price": 20000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
       "description_english": "A nugget of pure gold that gives\\noff a lustrous gleam.\\nIt can be sold at a high price.",
@@ -1777,7 +1777,7 @@
       "secondaryId": 0
     },
     {
-      "english": "HEART SCALE",
+      "english": "Escama Corazón",
       "itemId": "ITEM_HEART_SCALE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -2865,7 +2865,7 @@
       "secondaryId": 0
     },
     {
-      "english": "BRIGHTPOWDER",
+      "english": "Polvo Brillo",
       "itemId": "ITEM_BRIGHT_POWDER",
       "price": 10,
       "holdEffect": "HOLD_EFFECT_EVASION_UP",
@@ -2881,7 +2881,7 @@
       "secondaryId": 0
     },
     {
-      "english": "WHITE HERB",
+      "english": "Hierba Blanca",
       "itemId": "ITEM_WHITE_HERB",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_RESTORE_STATS",
@@ -2897,7 +2897,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MACHO BRACE",
+      "english": "Brazal Firme",
       "itemId": "ITEM_MACHO_BRACE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_MACHO_BRACE",
@@ -2913,7 +2913,7 @@
       "secondaryId": 0
     },
     {
-      "english": "EXP. SHARE",
+      "english": "Rep. Exp.",
       "itemId": "ITEM_EXP_SHARE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_EXP_SHARE",
@@ -3185,7 +3185,7 @@
       "secondaryId": 0
     },
     {
-      "english": "METAL COAT",
+      "english": "Reves. Metal",
       "itemId": "ITEM_METAL_COAT",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_STEEL_POWER",

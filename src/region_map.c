@@ -652,19 +652,19 @@ static const struct DungeonMapInfo sDungeonInfo[] = {
         .desc = gText_RegionMap_AreaDesc_DiglettsCave
     }, {
         .id = MAPSEC_KANTO_VICTORY_ROAD,
-        .name = sMapsecName_VICTORYROAD,
+        .name = sMapsecName_CalleVictoria,
         .desc = gText_RegionMap_AreaDesc_VictoryRoad
     }, {
         .id = MAPSEC_POKEMON_MANSION,
-        .name = sMapsecName_POKMONMANSION,
+        .name = sMapsecName_MansionPokemon,
         .desc = gText_RegionMap_AreaDesc_PokemonMansion
     }, {
         .id = MAPSEC_KANTO_SAFARI_ZONE,
-        .name = sMapsecName_SAFARIZONE,
+        .name = sMapsecName_ZonaSafari,
         .desc = gText_RegionMap_AreaDesc_SafariZone
     }, {
         .id = MAPSEC_ROCK_TUNNEL,
-        .name = sMapsecName_ROCKTUNNEL,
+        .name = sMapsecName_TunelRoca,
         .desc = gText_RegionMap_AreaDesc_RockTunnel
     }, {
         .id = MAPSEC_SEAFOAM_ISLANDS,
@@ -676,7 +676,7 @@ static const struct DungeonMapInfo sDungeonInfo[] = {
         .desc = gText_RegionMap_AreaDesc_PokemonTower
     }, {
         .id = MAPSEC_CERULEAN_CAVE,
-        .name = sMapsecName_CERULEANCAVE,
+        .name = sMapsecName_CuevaCeleste,
         .desc = gText_RegionMap_AreaDesc_CeruleanCave
     }, {
         .id = MAPSEC_POWER_PLANT,

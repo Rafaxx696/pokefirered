@@ -28,7 +28,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_IVYSAUR] =
     {
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 10,
         .weight = 130,
         .description = gIvysaurPokedexText,
@@ -41,7 +41,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_VENUSAUR] =
     {
-        .categoryName = _("SEED"),
+        .categoryName = _("Semilla"),
         .height = 20,
         .weight = 1000,
         .description = gVenusaurPokedexText,
@@ -54,7 +54,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_CHARMANDER] =
     {
-        .categoryName = _("LIZARD"),
+        .categoryName = _("Lagartija"),
         .height = 6,
         .weight = 85,
         .description = gCharmanderPokedexText,
@@ -67,7 +67,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_CHARMELEON] =
     {
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 11,
         .weight = 190,
         .description = gCharmeleonPokedexText,
@@ -80,7 +80,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_CHARIZARD] =
     {
-        .categoryName = _("FLAME"),
+        .categoryName = _("Llama"),
         .height = 17,
         .weight = 905,
         .description = gCharizardPokedexText,
@@ -93,7 +93,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_SQUIRTLE] =
     {
-        .categoryName = _("TINY TURTLE"),
+        .categoryName = _("Tortuguita"),
         .height = 5,
         .weight = 90,
         .description = gSquirtlePokedexText,
@@ -106,7 +106,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_WARTORTLE] =
     {
-        .categoryName = _("TURTLE"),
+        .categoryName = _("Tortuga"),
         .height = 10,
         .weight = 225,
         .description = gWartortlePokedexText,
@@ -119,7 +119,7 @@ const struct PokedexEntry gPokedexEntries[] =
 
     [NATIONAL_DEX_BLASTOISE] =
     {
-        .categoryName = _("SHELLFISH"),
+        .categoryName = _("Tortuga"),
         .height = 16,
         .weight = 855,
         .description = gBlastoisePokedexText,

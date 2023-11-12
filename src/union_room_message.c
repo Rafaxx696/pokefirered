@@ -515,7 +515,7 @@ ALIGNED(4) const u8 gText_UR_Exit[] = _("EXIT");
 
 ALIGNED(4) const u8 gText_UR_Exit2[] = _("EXIT");
 ALIGNED(4) const u8 gText_UR_Info[] = _("INFO");
-ALIGNED(4) const u8 gText_UR_NameWantedOfferLv[] = _("NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}Nvl.");
+ALIGNED(4) const u8 gText_UR_NameWantedOfferLv[] = _("NAME{CLEAR_TO 0x3C}WANTED{CLEAR_TO 0x6E}OFFER{CLEAR_TO 0xC6}Nv");
 
 ALIGNED(4) const u8 gText_UR_SingleBattle[] = _("SINGLE BATTLE");
 ALIGNED(4) const u8 gText_UR_DoubleBattle[] = _("DOUBLE BATTLE");

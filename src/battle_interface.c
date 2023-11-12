@@ -760,7 +760,7 @@ static void UpdateLvlInHealthbox(u8 healthboxSpriteId, u8 lvl)
 {
     u32 windowId, spriteTileNum;
     u8 *windowTileData;
-    u8 text[16] = _("{LV_2}");
+    u8 text[16] = _("Nv");
     u32 xPos;
     u8 *objVram;
 

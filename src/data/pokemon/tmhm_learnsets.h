@@ -163,6 +163,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM28_DIG)
                                         | TMHM(TM31_BRICK_BREAK)
                                         | TMHM(TM32_DOUBLE_TEAM)
+                                        | TMHM(TM39_ROCK_TOMB)
                                         | TMHM(TM42_FACADE)
                                         | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
@@ -188,6 +189,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM28_DIG)
                                         | TMHM(TM31_BRICK_BREAK)
                                         | TMHM(TM32_DOUBLE_TEAM)
+                                        | TMHM(TM39_ROCK_TOMB)
                                         | TMHM(TM42_FACADE)
                                         | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
@@ -216,6 +218,7 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(TM28_DIG)
                                         | TMHM(TM31_BRICK_BREAK)
                                         | TMHM(TM32_DOUBLE_TEAM)
+                                        | TMHM(TM39_ROCK_TOMB)
                                         | TMHM(TM42_FACADE)
                                         | TMHM(TM43_SECRET_POWER)
                                         | TMHM(TM44_REST)
@@ -3041,7 +3044,8 @@ static const u32 sTMHMLearnsets[][2] =
                                         | TMHM(HM04_STRENGTH)
                                         | TMHM(HM06_ROCK_SMASH)),
 
-    [SPECIES_MAGIKARP]    = TMHM_LEARNSET(0),
+    [SPECIES_MAGIKARP]    = TMHM_LEARNSET(TMHM(TM03_WATER_PULSE)
+                                        | TMHM(TM06_TOXIC)),
 
     [SPECIES_GYARADOS]    = TMHM_LEARNSET(TMHM(TM03_WATER_PULSE)
                                         | TMHM(TM05_ROAR)
