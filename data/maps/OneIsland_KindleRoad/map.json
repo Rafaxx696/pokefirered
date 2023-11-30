@@ -18,6 +18,11 @@
       "map": "MAP_ONE_ISLAND",
       "offset": 120,
       "direction": "left"
+    },
+    {
+      "map": "MAP_CAMINO_CANDENTE",
+      "offset": 0,
+      "direction": "left"
     }
   ],
   "object_events": [
@@ -451,7 +456,9 @@
       "dest_warp_id": "0"
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "sign",

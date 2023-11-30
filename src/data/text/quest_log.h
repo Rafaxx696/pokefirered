@@ -1,4 +1,4 @@
-const u8 gText_QuestLog_PreviouslyOnYourQuest[] = _("Hagamos memoria…");
+const u8 gText_QuestLog_PreviouslyOnYourQuest[] = _("Hagamos memoria… ");
 const u8 gText_QuestLog_SwitchMon1WithMon2[] = _("{PLAYER} switched the POKéMON\n{STR_VAR_1} with {STR_VAR_2}.");
 const u8 gText_QuestLog_SwappedHeldItemsOnMon[] = _("Took the item {STR_VAR_2} from\n{STR_VAR_1} and gave it the item\n{STR_VAR_3} to hold.");
 const u8 gText_QuestLog_TookHeldItemFromMon[] = _("Took the item {STR_VAR_2} from\n{STR_VAR_1}.");
@@ -95,7 +95,7 @@ const u8 gText_QuestLog_Gym[] = _("GYM");
 const u8 gText_QuestLog_PokemonLeagueGate[] = _("POKéMON LEAGUE GATE");
 const u8 gText_QuestLog_ViridianForest[] = _("VIRIDIAN FOREST");
 const u8 gText_QuestLog_PewterMuseumOfScience[] = _("PEWTER MUSEUM OF SCIENCE");
-const u8 gText_QuestLog_MtMoon[] = _("MT. MOON");
+const u8 gText_QuestLog_MtMoon[] = _("Monte Moon");
 const u8 gText_QuestLog_BikeShop[] = _("BIKE SHOP");
 const u8 gText_QuestLog_BillsHouse[] = _("BILL'S HOUSE");
 const u8 gText_QuestLog_DayCare[] = _("DAY CARE");

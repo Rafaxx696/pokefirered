@@ -840,7 +840,10 @@ static const u16 sPoliwrathLevelUpLearnset[] = {
 };
 
 static const u16 sAbraLevelUpLearnset[] = {
-    LEVEL_UP_MOVE(1, MOVE_TELEPORT),
+    LEVEL_UP_MOVE(1, MOVE_CONFUSION),
+    LEVEL_UP_MOVE(2, MOVE_TELEPORT),
+    LEVEL_UP_MOVE(4, MOVE_KINESIS),
+    LEVEL_UP_MOVE(6, MOVE_DISABLE),
     LEVEL_UP_END
 };
 

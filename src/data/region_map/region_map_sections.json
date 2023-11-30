@@ -308,7 +308,7 @@
     },
     {
       "map_section": "MAPSEC_VIRIDIAN_FOREST",
-      "name": "VIRIDIAN FOREST",
+      "name": "Bosque Verde",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -316,7 +316,7 @@
     },
     {
       "map_section": "MAPSEC_MT_MOON",
-      "name": "MT. MOON",
+      "name": "Mt. Moon",
       "x": 0,
       "y": 0,
       "width": 1,

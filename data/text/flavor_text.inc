@@ -31,12 +31,12 @@ Text_Snacks::
 	.string "There's a pile of snacks here.$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+	.string "Todos los objetos que necesites!\n"
+	.string "Tienda Pokémon$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+	.string "Cura a tu Pokémon!\n"
+	.string "Centro Pokémon$"
 
 Text_Indigo_UltimateGoal::
 	.string "INDIGO PLATEAU\p"

@@ -23,6 +23,11 @@
       "map": "MAP_ONE_ISLAND_KINDLE_ROAD",
       "offset": -120,
       "direction": "right"
+    },
+    {
+      "map": "MAP_CAMINO_CANDENTE",
+      "offset": 0,
+      "direction": "up"
     }
   ],
   "object_events": [
@@ -99,7 +104,9 @@
       "dest_warp_id": "0"
     }
   ],
-  "coord_events": [],
+  "coord_events": [
+
+  ],
   "bg_events": [
     {
       "type": "sign",

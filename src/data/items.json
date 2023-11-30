@@ -273,7 +273,7 @@
       "secondaryId": 0
     },
     {
-      "english": "AWAKENING",
+      "english": "Despertar",
       "itemId": "ITEM_AWAKENING",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1329,7 +1329,7 @@
       "secondaryId": 0
     },
     {
-      "english": "SUPER REPEL",
+      "english": "Super Repelente",
       "itemId": "ITEM_SUPER_REPEL",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1345,7 +1345,7 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX REPEL",
+      "english": "Max Repelente",
       "itemId": "ITEM_MAX_REPEL",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1361,7 +1361,7 @@
       "secondaryId": 0
     },
     {
-      "english": "ESCAPE ROPE",
+      "english": "Cuerda Huida",
       "itemId": "ITEM_ESCAPE_ROPE",
       "price": 550,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1745,7 +1745,7 @@
       "secondaryId": 0
     },
     {
-      "english": "Trozo Estrella",
+      "english": "Tr. Estrella",
       "itemId": "ITEM_STAR_PIECE",
       "price": 12800,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1777,7 +1777,7 @@
       "secondaryId": 0
     },
     {
-      "english": "Escama Corazón",
+      "english": "Esc. Corazón",
       "itemId": "ITEM_HEART_SCALE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",

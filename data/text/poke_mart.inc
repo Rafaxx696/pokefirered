@@ -1,6 +1,6 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+	.string "Hola, Bienvenido!\n"
+	.string "En que puedo ayuadarte?$"
 
 Text_FillOutQuestionnaire::
 	.string "There is a questionnaire.\n"

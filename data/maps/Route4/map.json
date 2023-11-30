@@ -149,7 +149,7 @@
     {
       "type": "sign",
       "x": 18,
-      "y": 7,
+      "y": 6,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Route4_EventScript_MtMoonSign"

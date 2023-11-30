@@ -834,7 +834,7 @@ Text_WelcomeTimeCapsule::
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Nos vemos, hasta luego!$"
 
 @ Unused
 Text_HavingDiscountSaleToday::
@@ -1369,3 +1369,6 @@ Text_TestMsg::
 
 	.include "data/maps/BosqueVerde1/scripts.inc"
 	.include "data/maps/BosqueVerde1/text.inc"
+
+	.include "data/maps/CaminoCandente/scripts.inc"
+	.include "data/maps/CaminoCandente/text.inc"
